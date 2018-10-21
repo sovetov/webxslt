@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet href="base.xsl" type="text/xsl" ?>
+<r>
+    <oi>
+        <ai>qwe</ai>
+        <bi zxc="33">pp</bi>
+    </oi>
+    <oi>
+        <ai>qwe</ai>
+        <bi zxc="34">pp</bi>
+    </oi>
+</r>
